@@ -1,0 +1,5 @@
+gTTS==2.5.4
+openai-whisper==20240930
+moviepy==1.0.3
+Pillow>=10.0.0
+numpy<2
